@@ -4,7 +4,7 @@ module.exports = {
       node: true,
       browser: false,
   },
-  extends: ['eslint:recommended', 'plugin:react/recommended'],
+  extends: ['eslint:recommended', 'plugin:react/recommended', 'eslint-disable no-trailing-spaces'],
   plugins:[],
   globals: {
       Atomics: 'readonly',
