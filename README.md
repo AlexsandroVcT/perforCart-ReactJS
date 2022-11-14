@@ -1,7 +1,7 @@
         # SYSTEM ADDING PRODUCT TO CART
 ![Adicionando-produto-no-carrinho](https://user-images.githubusercontent.com/101852187/201561033-239609ce-fa3d-4567-86c7-4481f0415b94.png)
                    
-  # PRODUCTS ADDED TO CART, WITH PRODUCT SUM AND DELETION SYSTEM + STOCK VALIDATION
+            # PRODUCTS ADDED TO CART, WITH PRODUCT SUM AND DELETION SYSTEM + STOCK VALIDATION
 ![Produtos-adicionado-no-carrinho-somando-valor](https://user-images.githubusercontent.com/101852187/201561347-28566b6e-9f7e-483b-943d-50f265e9e17c.png)
 
        # STOCL VERIFICATION SYSTEM WITH SAGA
